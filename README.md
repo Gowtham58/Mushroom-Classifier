@@ -1,5 +1,5 @@
 # Mushroom-Classifier
-Web Application for the classfication of mushroom belonging to 3 categories of Boletus, Lactarius, Russula using CNN.
+Web Application for the classfication of mushroom belonging to 3 categories Boletus, Lactarius, Russula using CNN.
 ## Overview
 Mushrooms are a type of fungi that grow in a variety of habitats, from forests to fields to decomposing logs. They come in many different shapes, sizes, and colors, and are used for food, medicine, and other purposes. A mushroom is a fruitful body of fungus which is usually produced above the ground on soil or other nutrients. We only concentrate on mushrooms and do not consider fungus species. Our purpose is the optical recognition of species which have cap, gills underside of cap and astern and typically the full body is visible on the image.
 ## Working
