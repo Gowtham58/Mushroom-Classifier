@@ -18,5 +18,5 @@ In this project we are classifying various types of Mushrooms that are found on 
 
 ## TO RUN LOCALLY👇
 1. Download the repository or clone it locally
-2. Open the folder in vscode
-3. Run the app.py file
+2. Open the folder Flask folder inside Project in vscode
+4. Run the app.py file
